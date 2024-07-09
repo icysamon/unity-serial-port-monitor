@@ -1,2 +1,3 @@
-# SerialPortConnect - Unity
-A serial port connect software made with unity.
+# SerialTerminal
+Unityで開発したシリアルターミナルです。  
+まだ開発中ので現在はデータ受け機能限り使えられます。
