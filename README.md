@@ -1,3 +1,4 @@
-# SerialTerminal
-Unityで開発したシリアルターミナルです。  
-まだ開発中ので現在はデータ受け機能限り使えられます。
+# Unity Serial Port Monitor
+This is a serial port monitor build with Unity.
+
+It is still under development, so only the data receiving function can be used currently.
